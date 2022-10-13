@@ -14,7 +14,7 @@
 - 📄 Know about my experiences [https://docs.google.com/document/d/1RTbJ6rIaYQYnpnNKd6fHlmWrOEBnydBlc01IOQhk4pg/edit?usp=sharing](https://docs.google.com/document/d/1RTbJ6rIaYQYnpnNKd6fHlmWrOEBnydBlc01IOQhk4pg/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> [Linkdin](https://www.linkedin.com/in/gretchyn-hickman-54b453210/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
