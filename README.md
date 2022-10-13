@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **gretchyn.hickman@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1RTbJ6rIaYQYnpnNKd6fHlmWrOEBnydBlc01IOQhk4pg/edit?usp=sharing](https://docs.google.com/document/d/1RTbJ6rIaYQYnpnNKd6fHlmWrOEBnydBlc01IOQhk4pg/edit?usp=sharing)
-
 - ⚡ Fun fact **I can correctly identify over 100 species of mushrooms**
 
 <h3 align="left">Connect with me:</h3>
