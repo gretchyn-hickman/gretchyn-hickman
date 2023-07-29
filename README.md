@@ -1,17 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gretchyn Hickman</h1>
-<h3 align="center">A passionate frontend developer from Providence, Utah</h3>
-
-- 🔭 I’m currently working on [my Weather Application](https://github.com/gretchyn-hickman/Hickman.Project)
-
-- 🌱 I’m currently learning **Backend- Oracle, and Express**
+<h3 align="center">A passionate frontend developer based in Utah</h3>
 
 - 👨‍💻 All of my projects are available at [https://reverent-mayer-b249cb.netlify.app](https://reverent-mayer-b249cb.netlify.app)
-
-- 💬 Ask me about **Internet Disability and Accessibility Issues**
-
-- 📫 How to reach me **gretchyn.hickman@gmail.com**
-
-- ⚡ Fun fact **I can correctly identify over 100 species of mushrooms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
